@@ -28,3 +28,16 @@ Special thanks to Hazem Khaled for an insightful walkthrough on OS customization
 
 [Screencast from 02-20-2025 01:08:53 PM.webm](https://github.com/user-attachments/assets/05dd1206-8951-4bce-b3e1-8ae0f0e43611)
 
+Yocto Layers :
+![image](https://github.com/user-attachments/assets/19739cf1-947a-442b-94bc-8e879aa17114)
+
+Distros :
+![image](https://github.com/user-attachments/assets/2f7c658a-5637-4f18-87e7-db8e6f4d35f5)
+
+![image](https://github.com/user-attachments/assets/35c4f513-3a98-44a9-bc6c-e10ebd9da6c9)
+
+Final Image :
+![image](https://github.com/user-attachments/assets/d0e43cdb-b4db-4d8d-98ec-9eced118715a)
+
+
+
