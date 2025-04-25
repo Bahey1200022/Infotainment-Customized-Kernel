@@ -21,7 +21,7 @@ Graphical Interface: Qt5 integration for GUI-based applications.
 Audio Support: ALSA utilities and PulseAudio for comprehensive sound control.
 Peripheral Control: WiringPi for GPIO, SPI, and I2C interaction.
 Customizable Distro: Two build variants, each with different init systems.
-
+added vsomeip cpp package 
 Special thanks to Hazem Khaled for an insightful walkthrough on OS customization—from manually building each core component from scratch to leveraging Yocto for automated builds.
 
 💡 Below is a demo showcasing each feature in action...
